@@ -3,8 +3,8 @@
 My name is Mathieu and I'm a computer science student at the University of Windsor. Here's some information about me.
 
 ⚡ My main projects
-- Website that can host real-time graphs that showcase efficiency metrics about an assembly line: github.com/Mathieu-Poirier/assemblyLineEfficiencyTool (D3.js, WebSocket.js, PostgreSQL, Node.js, Angular, Keyboard Scanner, Python)
-- Password manager website with user authentication through Flask-login and hashing: github.com/Mathieu-Poirier/Password-Manager (Flask, React, PostgreSQL)
+- Website that can host real-time graphs that showcase efficiency metrics about an assembly line: (D3.js, WebSocket.js, PostgreSQL, Node.js, Angular, Keyboard Scanner, Python)
+- Password manager website with user authentication through Flask-login and hashing: (Flask, React, PostgreSQL, Tailwind CSS)
 
 🌱 2024 Currently learning
 - Java Spring
