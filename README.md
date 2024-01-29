@@ -9,10 +9,10 @@ My name is Mathieu and I'm a computer science student at the University of Winds
 🌱 2024 Currently learning
 - Java Spring
 - p5.js
-- Microsoft Azure
+- Google Firebase
 - Building libraries
 - Docker
-- Web design principals
+- React-Native
 
 💬 Reach me via email or LinkedIn!: poirier4@uwindsor.ca | https://www.linkedin.com/in/mathieu-poirier-b89b472a6/
 
