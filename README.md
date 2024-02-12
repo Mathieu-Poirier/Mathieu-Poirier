@@ -4,7 +4,7 @@ My name is Mathieu Poirier and I'm a computer science student at the University 
 
 How did I end up here?
 
-I've been enjoying web development since I realized I could make websites that did what you needed them to and nothing you didn't. Modern Javascript UI makes me want to simplify all the websites on the Internet, so that they serve a purpose instead of being spyware. I'm currently looking for a role in fullstack web development, ideally writing Python, Javascript/Typescript or C#. I'd especially love to work in companies that have amazing training and clear development goals. If you're hiring, let's chat!
+I've been enjoying web development since I realized I could make websites that did what you needed them to and nothing you didn't. I appreciate Flask's simple to use, yet expressive endpoints, React's router and C#'s love of dependency injection. I'm currently looking for a role in fullstack web development, ideally writing Python, Javascript/Typescript or C#. I'd especially love to work in companies that have amazing training and clear development goals. If you're hiring, let's chat! 
 
 Highlighted projects
 - Website that can host real-time graphs that showcase efficiency metrics about an assembly line: (D3.js, WebSocket.js, PostgreSQL, Node.js, Angular, Keyboard Scanner, Python)
