@@ -9,13 +9,11 @@ I've been enjoying web development since I realized I could make websites that t
 Highlighted projects
 - Website that can host real-time graphs that showcase efficiency metrics about an assembly line: (D3.js, WebSocket.js, PostgreSQL, Node.js, Angular, Keyboard Scanner, Python)
 - Password manager website with user authentication through Flask-login and hashing: (Flask, React, PostgreSQL, Tailwind CSS)
-- Live QuickSort Visualizer running on GitHub Pages. Deployed through Heroku (Gin, React, Heroku-CLI)
 - C# securePasswordType Library (C#, .NET): https://www.nuget.org/packages/securePasswordType
 
 Currently learning
-- Google Firebase
-- Docker
-- React-Native
+- TensorFlow
+- CNN Models
 
 💬 Reach me via email or LinkedIn!: poirier4@uwindsor.ca | https://www.linkedin.com/in/mathieu-poirier-b89b472a6/
 
