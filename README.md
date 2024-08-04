@@ -7,12 +7,10 @@ How did I end up here?
 I've been enjoying web development since I realized I could make websites that tailored to my custom design principals (minimalist yet powerful). I appreciate Flask's simple to use, yet expressive endpoints, React's router and C#'s love of dependency injection. I'm currently looking for a role in fullstack web development, ideally writing Python, Javascript/Typescript or C#. I'd especially love to work in companies that have amazing training and clear development goals. If you're hiring, let's chat! 
 
 Highlighted projects
-- Website that can host real-time graphs that showcase efficiency metrics about an assembly line: (D3.js, WebSocket.js, PostgreSQL, Node.js, Angular, Keyboard Scanner, Python)
-- Password manager website with user authentication through Flask-login and hashing: (Flask, React, PostgreSQL, Tailwind CSS)
 - C# securePasswordType Library (C#, .NET): https://www.nuget.org/packages/securePasswordType
 
 Currently learning
-- TensorFlow
+- Pytorch
 - CNN Models
 
 💬 Reach me via email or LinkedIn!: poirier4@uwindsor.ca | https://www.linkedin.com/in/mathieu-poirier-b89b472a6/
