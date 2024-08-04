@@ -4,7 +4,7 @@ My name is Mathieu Poirier and I'm a computer science student at the University 
 
 How did I end up here?
 
-I've been enjoying web development since I realized I could make websites that tailored to my custom design principals (minimalist yet powerful). I appreciate Flask's simple to use, yet expressive endpoints, React's router and C#'s love of dependency injection. I'm currently looking for a role in fullstack web development, ideally writing Python, Javascript/Typescript or C#. I'd especially love to work in companies that have amazing training and clear development goals. If you're hiring, let's chat! 
+I've been enjoying web development since I realized I could make websites that tailored to my custom design principals (minimalist yet powerful). I appreciate Flask's simple to use, yet expressive endpoints and React's component system. I'm currently looking for a role in fullstack web development, ideally writing Python, Javascript/Typescript or C#. I'd especially love to work in companies that have amazing training and clear development goals. If you're hiring, let's chat! 
 
 Highlighted projects
 - C# securePasswordType Library (C#, .NET): https://www.nuget.org/packages/securePasswordType
