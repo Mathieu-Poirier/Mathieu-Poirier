@@ -4,10 +4,12 @@ My name is Mathieu Poirier and I'm a computer science student at the University 
 
 How did I end up here?
 
-I've been enjoying software development since I realized it serves as a great way to provide creative solutions to data-oriented problems. I'm currently looking for a role in data science/analysis ideally writing Python code. I'd especially love to work in companies that have amazing training and clear development goals. If you're hiring, let's chat! 
+My brain was uniquely wired to find computers interesting and I enjoy abstract problem solving as a tool for creative expression. I enjoy writing C, C++, and Odin in systems programming contexts. 
 
 Highlighted projects
 - HandControl (Pytorch, Mediapipe, OpenCV, Docker, AWS): [Here](https://github.com/Mathieu-Poirier/HandControl)
+- repool (C++, Make): [Here](https://github.com/Mathieu-Poirier/repool) (WIP)
+- asm_interpreter (x86 assembly): [Here](https://github.com/Mathieu-Poirier/asm_interpreter) (WIP)
 
 
 💬 Reach me via email or LinkedIn!: poirier4@uwindsor.ca | https://www.linkedin.com/in/mathieu-poirier-b89b472a6/
