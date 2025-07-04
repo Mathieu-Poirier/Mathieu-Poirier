@@ -8,8 +8,8 @@ My brain was uniquely wired to find computers interesting and I enjoy abstract p
 
 Highlighted projects
 - HandControl (Pytorch, Mediapipe, OpenCV, Docker, AWS): [Here](https://github.com/Mathieu-Poirier/HandControl)
-- repool (C++, Make): [Here](https://github.com/Mathieu-Poirier/repool) (WIP)
-- asm_interpreter (x86 assembly): [Here](https://github.com/Mathieu-Poirier/asm_interpreter) (WIP)
+- [WIP] repool (C++, Make): [Here](https://github.com/Mathieu-Poirier/repool) 
+- [WIP] asm_interpreter (x86 assembly): [Here](https://github.com/Mathieu-Poirier/asm_interpreter) 
 
 
 💬 Reach me via email or LinkedIn!: poirier4@uwindsor.ca | https://www.linkedin.com/in/mathieu-poirier-b89b472a6/
