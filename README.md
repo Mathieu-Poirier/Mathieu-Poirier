@@ -4,7 +4,7 @@ My name is Mathieu Poirier and I'm a computer science student at the University 
 
 How did I end up here?
 
-My brain was uniquely wired to find computers interesting and I enjoy abstract problem solving as a tool for creative expression. I enjoy writing C, C++, and Odin in systems programming contexts. 
+My brain was uniquely wired to find computers interesting and I enjoy abstract problem solving as a tool for creative expression. I enjoy writing C, C++, and Python in systems programming contexts. 
 
 Highlighted projects
 - HandControl (Pytorch, Mediapipe, OpenCV, Docker, AWS): [Here](https://github.com/Mathieu-Poirier/HandControl)
