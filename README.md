@@ -6,10 +6,6 @@ How did I end up here?
 
 My brain was uniquely wired to find computers interesting and I enjoy abstract problem solving as a tool for creative expression. I enjoy writing C, C++, and Python in systems programming contexts. 
 
-Highlighted projects
-
-
-
 💬 Reach me via email or LinkedIn!: poirier4@uwindsor.ca | https://www.linkedin.com/in/mathieu-poirier-b89b472a6/
 
 <!--
