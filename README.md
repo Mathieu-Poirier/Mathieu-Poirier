@@ -1,24 +1,5 @@
-### Hi there 👋
+Hey I'm Mathieu. I'm a computer science student from Windsor, ON.
 
-My name is Mathieu Poirier and I'm a computer science student at the University of Windsor. Here's some information about me.
+My professional interests lie in low-level software and software-to-hardware interfacing, with a particular focus on operating systems and kernel development, including bootloaders, device drivers, rollback filesystems, and system utilities with clear and responsive user interfaces. My goal is to build fast, reliable systems that balance performance with ease of use, never sacrificing clarity in design.
 
-How did I end up here?
-
-I enjoy abstract problem solving as a tool for creative expression. I enjoy writing C, C++, and ARM assembly for embedded systems.
-
-💬 Reach me via email or LinkedIn!: poirier4@uwindsor.ca | https://www.linkedin.com/in/mathieu-poirier-b89b472a6/
-
-<!--
-**Mathieu-Poirier/Mathieu-Poirier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, you can find me in the gym working on my pull-ups. Reading overcomplicated philosophy books and practicing the visual arts as a creative outlet.
